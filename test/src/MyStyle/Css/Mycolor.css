@@ -1,0 +1,14 @@
+.color{
+    background-color: #253c95 ;
+}
+.font{
+    font-family: 'Inter-Black',bold;
+    letter-spacing: 8px;
+    font-size: 30px!important;
+}
+.menu{
+    font-family: "Inter-Bold", "NotoSerifKhmer-Black", sans-serif !important;
+    letter-spacing: 2px;
+    margin-right: 15px;
+    color: white !important;
+}

@@ -1,0 +1,17 @@
+heroku
+daily
+const hello =()=>{
+ return (
+	<h1>hello<h1/>
+)
+
+}
+
+
+class component
+
+sy: class Computer extends React.Component{
+	render(){
+		return()
+}
+}
